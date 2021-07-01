@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.idea
+
+
+Data/IMOB
+Data/lisbon_20*.osm.pbf
+Data/Lisboa_Freguesias
+
+
+
+
